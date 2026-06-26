@@ -7,7 +7,7 @@ Phishing Website Detector:
 
 A Flask-based web application that detects phishing websites using URL analysis.
 
-Features:
+#Features:
 URL phishing detection
 Simple user interface
 Flask backend
@@ -15,13 +15,18 @@ Security-focused project
 
 
 
-Technologies Used:
+#Technologies Used:
 
 Python
+
 Flask
+
 HTML
+
 CSS
-Run Locally:
+
+
+#Run Locally:
 
 pip install flask
 python app.py
